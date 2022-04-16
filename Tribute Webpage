@@ -1,4 +1,7 @@
-
+<!doctype html>
+<html>
+<head></head>
+<body
 <h1> Dr. Norman Borlaug</h1>
 <p>The man who saved a billion lives</p>
 <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg">
@@ -28,3 +31,5 @@
   <p><em>-- Indian Prime Minister Manmohan Singh</em></p>
 </div>
 <h2>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/Norman_Borlaug" > for more info</h2>
+</body>
+</html>
